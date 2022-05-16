@@ -7,5 +7,5 @@
 
 <p align="center">
   <img src="https://github.com/Winchester97/Dasar-Algoritma-Pemrograman---Simple-Cashier-for-Fashion-Business-Retail/blob/main/pic/pic1.png" title="hover text">
-  <img src="https://github.com/Winchester97/Dasar-Algoritma-Pemrograman---Simple-Cashier-for-Fashion-Business-Retail/blob/main/pic/pic2.png" title="hover text">
+  <img src="https://github.com/Winchester97/Dasar-Algoritma-Pemrograman---Simple-Cashier-for-Fashion-Business-Retail/blob/main/pic/pic%202.png" title="hover text">
 </p>
